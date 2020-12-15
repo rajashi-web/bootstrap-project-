@@ -1,0 +1,116 @@
+body{
+  font-family: 'Open Sans', sans-serif;
+}
+
+.tittle{
+  background-color: #ff4c68!important;
+  color: #ffffff;
+  padding-bottom: 5%;
+  padding-top: 3%;
+}
+h1{
+  font-family: 'Oswald', sans-serif;
+  font-weight: bold;
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+.navbar{
+padding: 0 0 4.5rem 0!important;
+
+
+}
+.navbar-brand{
+    font-family: 'Do Hyeon', sans-serif!important;
+    font-size: 2.5rem!important;
+    font-weight: bold!important;
+}
+.nav-item{
+  padding: 0 10px!important;
+    font-family: 'Open Sans', sans-serif!important;
+
+}
+.nav-link{
+  font-size: 1.2rem;
+}
+.download-button{
+  margin: 5% 3% 5% 0!important;
+}
+.tittle-pic{
+  width: 60%;
+  transform: rotate(20deg);
+  padding: 1.2rem 0;
+}
+.fab{
+  margin-right: 5px!important;
+
+}
+.column-feature{
+  text-align: center!important;
+  margin: 50px 0!important;
+}
+h2{
+
+}
+.fas{
+  padding: 7%!important;
+  color: #ef8172!important;
+}
+.fas:hover{
+  color: #ff4c68!important;
+}
+.testimonial-img{
+  border-radius: 100%!important;
+  width: 20%!important;
+  padding: 1.2rem!important;
+
+}
+.slide{
+  background-color: #ef8172!important;
+  text-align: center!important;
+  color: #ffffff!important;
+}
+.carousel-item{
+  padding: 7% 15%;
+}
+.slide-footer{
+  background-color: #ef8172;
+  text-align: center;
+  padding-bottom: 20px;
+}
+.footer{
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+.card-portion{
+  text-align: center;
+  padding: 8% 5%;
+}
+.touch-up{
+    background-color: #ff4c68!important;
+    text-align: center;
+      color: #ffffff;
+      padding:1px;
+}
+.last-h2{
+  margin: 20px 40px;
+  color: #ffffff;
+}
+.download:hover{
+    background-color: #ff4c68!important;
+}
+.last-p{
+  color: #efd9d1;
+}
+.card-text{
+  text-align: center!important;
+  margin: 20px 40px 27px 118px!important;
+}
+.card-text-3{
+  margin: 20px 40px 27px 82px!important;
+}
+.card-text-2{
+  margin: 20px 40px 27px 67px!important;
+}
+.download{
+  margin: 20px 6px;
+}
